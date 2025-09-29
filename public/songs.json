@@ -4,8 +4,8 @@
         "titulo": "The Greatest",
         "album": "Hit Me Hard and Soft",
         "cantante": "By Billie Eilish",
-        "imagenAlbum": "https://static.wikia.nocookie.net/wherearetheavocados/images/6/6d/HIT_ME_HARD_AND_SOFT.png/revision/latest?cb=20240408153454",
-        "duracion": 4.54,
+        "imagenAlbum": "https://static.wikia.nocookie.net/wherearetheavocados/images/6/6d/HIT_ME_HARD_AND_SOFT.png",
+        "duracion": 274,
         "valoracion": 5        
     },
     {
@@ -14,8 +14,8 @@
         "album": "After Hours",
         "cantante": "By The Weeknd",
         "imagenAlbum": "https://upload.wikimedia.org/wikipedia/en/e/e6/The_Weeknd_-_Blinding_Lights.png",
-        "duracion": 3.24,
-        "valoracion": 5 
+        "duracion": 204,
+        "valoracion": 4 
     },
     {
         "id": 3,
@@ -23,7 +23,7 @@
         "album": "Happier Than Ever",
         "cantante": "By Billie Eilish",
         "imagenAlbum": "https://upload.wikimedia.org/wikipedia/en/4/45/Billie_Eilish_-_Happier_Than_Ever.png",
-        "duracion": 5.16,
+        "duracion": 316,
         "valoracion": 5 
     },
     {
@@ -32,8 +32,8 @@
         "album": "Training Seasons",
         "cantante": "By Dua Lipa",
         "imagenAlbum": "https://upload.wikimedia.org/wikipedia/en/8/8b/Dua_Lipa_-_Training_Season.png",
-        "duracion": 3.47,
-        "valoracion": 5 
+        "duracion": 210,
+        "valoracion": 4.7 
     },
     {
         "id": 5,
@@ -41,8 +41,8 @@
         "album": "Evory",
         "cantante": "Omar Apollo",
         "imagenAlbum": "https://i.scdn.co/image/ab67616d0000b27390cf5d1ccfca2beb86149a19",
-        "duracion": 3.44,
-        "valoracion": 5 
+        "duracion": 204,
+        "valoracion": 4.4 
     },
     {
         "id": 6,
@@ -50,7 +50,7 @@
         "album": "Want",
         "cantante": "By 30H!3",
         "imagenAlbum": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/3OH%213_-_Want.jpg/250px-3OH%213_-_Want.jpg",
-        "duracion": 3.42,
-        "valoracion": 5 
+        "duracion": 222,
+        "valoracion": 4
     }
 ]
