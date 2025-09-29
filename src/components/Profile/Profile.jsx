@@ -40,19 +40,7 @@ export default function Profile() {
             aplicaciones por dentro y complementar mi perfil creativo con una base 
             técnica sólida.
             </p>
-
-
-            <h4>Mis Aficiones</h4>
-            <ul className={styles.hobbies}>
-                <li className={styles.hobby}>Dibujar y pintar</li>
-                <li className={styles.hobby}>Explorar entornos naturales</li>
-                <li className={styles.hobby}>Películas y series</li>
-            </ul>
-
-
-
         </div>
         </>      
     )
-    
 }
