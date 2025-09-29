@@ -1,0 +1,46 @@
+.card {
+    background: rgb(219, 219, 219);
+    border: 1px solid #e5e5e5;
+    color: aqua;
+    border-radius: 15px;
+    overflow: hidden;
+    display: block;
+}
+
+.figure {
+    margin: 0;
+}
+
+.imagenAlbum {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.caption {
+    padding: .75rem .85rem;
+    text-align: left;
+}
+
+.title {
+    margin: 0 0 .25rem;
+    font-weight: 700;
+}
+
+.artist {
+    margin: 0 0 .35rem;
+    font-weight: 500;
+    opacity: .85;
+}
+
+.meta {
+  display: flex; flex-wrap: wrap; align-items: center; gap: .5rem;
+  font-size: .9rem; opacity: .9; margin: 0;
+}
+.badge {
+  background: #111827; color: #fff; border-radius: 999px;
+  padding: .2rem .6rem; font-size: .8rem;
+}
+.dot {
+    opacity: .6;
+}

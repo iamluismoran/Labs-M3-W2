@@ -5,7 +5,7 @@ import styles from "./Profile.module.css";
 export default function Profile() {
     return (
         <>
-        <div className={styles.wrapper}>
+        <div className={styles.profileWrapper}>
             <a
             href="https://www.behance.net/97f5fb57morpi"
             target="_blank"
@@ -13,12 +13,12 @@ export default function Profile() {
             >
                 <img src={imgMe} className={styles.myPic} alt="Foto de Elías" />
             </a>
-        </div>
-        
-         <h1>Elías</h1>
-         <h2>Morán</h2>
+            
+            
+         <h1>Elías Morán</h1>
+         <h2>Desarrollador Web Junior</h2>
          
-         <h3 className={styles.kicker}>Conoce mi perfil creativo</h3>
+         <h3 className={styles.tagline}>Conoce mi perfil creativo</h3>
          <p className={styles.portfolio}>
                 Portafolio:{" "}
                 <a
@@ -42,16 +42,17 @@ export default function Profile() {
             </p>
 
 
-            <h4>Mis aficiones</h4>
-            <ol className={styles.hobbies}>
-                <li className={styles.hobby}>Diseño de marcas</li>
-                <li className={styles.hobby}>Películas y Series</li>
+            <h4>Mis Aficiones</h4>
+            <ul className={styles.hobbies}>
+                <li className={styles.hobby}>Dibujar y pintar</li>
                 <li className={styles.hobby}>Explorar entornos naturales</li>
-            </ol>
-            
+                <li className={styles.hobby}>Películas y series</li>
+            </ul>
 
-        </>
-       
+
+
+        </div>
+        </>      
     )
     
 }
