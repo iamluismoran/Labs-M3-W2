@@ -1,6 +1,7 @@
 import { Routes, Route, NavLink } from "react-router-dom"
 import Home from "./components/Home/Home.jsx";
 import SongList from "./components/SongList/SongList.jsx";
+import ContactForm from "./components/ContactForm/ContactForm.jsx";
 
 export default function App() {
   const linkBase = {
@@ -46,6 +47,19 @@ export default function App() {
         >
           Canciones
         </NavLink>
+
+         <NavLink to="/contacto"
+         style={({ isActive }) =>
+          isActive
+          ? { ...linkBase,
+            color: "#111827",
+            background: "#e5e7eb",
+            borderColor: "#e5e7eb" }
+          : { ...linkBase, color: "#e5e7eb" }
+        }>
+          Contacto
+          </NavLink>
+
       </nav>
 
 
@@ -53,6 +67,7 @@ export default function App() {
         <Route path="/" element={<Home />} />
         <Route path="/home" element={<Home />} />
         <Route path="/canciones" element={<SongList />} />
+        <Route path="/contacto" element={<ContactForm />} />
       </Routes>
     </>
   );
