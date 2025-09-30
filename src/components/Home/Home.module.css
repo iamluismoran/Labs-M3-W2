@@ -1,0 +1,10 @@
+.wrapper {
+    max-width: 1760px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    text-align: center;
+}
+p {
+    font-size: 12px;
+    margin-bottom: 5rem;
+}

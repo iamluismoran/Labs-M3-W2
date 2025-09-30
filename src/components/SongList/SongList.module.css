@@ -12,6 +12,11 @@
   justify-content: center;
   margin-bottom: .75rem;
 }
+
+.header h2 {
+  font-size: 1rem;
+}
+
 .count {
   font-size: 0.9rem;
   opacity: 0.8;

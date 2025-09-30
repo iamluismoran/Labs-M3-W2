@@ -3,7 +3,7 @@
         "id": 1,
         "titulo": "The Greatest",
         "album": "Hit Me Hard and Soft",
-        "cantante": "By Billie Eilish",
+        "cantante": "Billie Eilish",
         "imagenAlbum": "https://static.wikia.nocookie.net/wherearetheavocados/images/6/6d/HIT_ME_HARD_AND_SOFT.png",
         "duracion": 274,
         "valoracion": 5        
@@ -12,7 +12,7 @@
         "id": 2,
         "titulo": "Blinding Lights",
         "album": "After Hours",
-        "cantante": "By The Weeknd",
+        "cantante": "The Weeknd",
         "imagenAlbum": "https://upload.wikimedia.org/wikipedia/en/e/e6/The_Weeknd_-_Blinding_Lights.png",
         "duracion": 204,
         "valoracion": 4 
@@ -21,7 +21,7 @@
         "id": 3,
         "titulo": "Happier Than Ever",
         "album": "Happier Than Ever",
-        "cantante": "By Billie Eilish",
+        "cantante": "Billie Eilish",
         "imagenAlbum": "https://upload.wikimedia.org/wikipedia/en/4/45/Billie_Eilish_-_Happier_Than_Ever.png",
         "duracion": 316,
         "valoracion": 5 
@@ -30,7 +30,7 @@
         "id": 4,
         "titulo": "Training Seasons",
         "album": "Training Seasons",
-        "cantante": "By Dua Lipa",
+        "cantante": "Dua Lipa",
         "imagenAlbum": "https://upload.wikimedia.org/wikipedia/en/8/8b/Dua_Lipa_-_Training_Season.png",
         "duracion": 210,
         "valoracion": 4.7 
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "titulo": "Evergreen",
-        "album": "Evory",
+        "album": "Ivory",
         "cantante": "Omar Apollo",
         "imagenAlbum": "https://i.scdn.co/image/ab67616d0000b27390cf5d1ccfca2beb86149a19",
         "duracion": 204,
@@ -48,7 +48,7 @@
         "id": 6,
         "titulo": "Starstrukk",
         "album": "Want",
-        "cantante": "By 30H!3",
+        "cantante": "30H!3",
         "imagenAlbum": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/3OH%213_-_Want.jpg/250px-3OH%213_-_Want.jpg",
         "duracion": 222,
         "valoracion": 4
